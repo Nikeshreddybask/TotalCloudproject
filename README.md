@@ -1,13 +1,14 @@
 # TotalCloudproject
 
-## Assigemnt for kubernetes application
+## Assignment for kubernetes application - TODO Application
 - To build the docker image for demo code use below commands
 
-Language: Node.js
-Pre-req: Kubernetes cluster
-cli tools required: docker, kubectl, git
+- Language: Node.js
+- Pre-req: Kubernetes cluster
+- cli tools required: docker, kubectl, git
 
-Step 1: Perform the git clone
+Step 1: Perform the git clone and check the code
+
 Step 2: Build the docker images
 ```zsh
 docker build -t demo .
