@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: nodesample
-          image: dkdoc/app:v1
+          image: nikdoocker2293/demo:v1
           ports:
             - containerPort: 3000
       resources:
