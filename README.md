@@ -7,7 +7,7 @@
 - Pre-req: Kubernetes cluster
 - cli tools required: docker, kubectl, git
 
-Step 1: Perform the git clone and check the code
+Step 1: Perform the git clone and check out the code
 
 Step 2: Build the docker images
 ```zsh
